@@ -1,0 +1,1 @@
+This project incorporates all code created for Matvey Kazakov's PhD thesis work: Visualizers in different forms.
